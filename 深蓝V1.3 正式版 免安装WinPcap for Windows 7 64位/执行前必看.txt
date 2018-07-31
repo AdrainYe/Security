@@ -1,0 +1,1 @@
+因为深蓝的底层基于依赖于WinPcap,所以执行深蓝前请先安装WinPcap或者拷贝npf.sys至C:\Windows\System32\drivers
